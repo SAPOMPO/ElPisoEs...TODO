@@ -1,4 +1,4 @@
-const formLink = "link(todavia-no-he-creado-el-google-form)";
+const formLink = "https://docs.google.com/forms/d/e/1FAIpQLSceKVjw7OWtf-bXgWfIpbK075ZfJJmlS4LLAWe_-8Rvp-LxTA/viewform?usp=sharing&ouid=114770524459196804223";
 document.getElementById("voteBtn").href = formLink;
 
 fetch("ideas.json")
