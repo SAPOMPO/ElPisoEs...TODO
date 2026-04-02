@@ -1,0 +1,136 @@
+{
+  "⚡ Poderes": [
+    "⚡ Super velocidad",
+    "🦘 Salto gigante",
+    "👻 Invisibilidad temporal",
+    "💥 Empujar jugadores",
+    "❤️ Regeneración rápida",
+    "🛡️ Escudo temporal",
+    "🔥 Inmunidad al fuego",
+    "❄️ Resistencia al hielo",
+    "🧲 Atracción de monedas",
+    "⚡ Dash rápido (impulso)"
+  ],
+
+  "🔥 Eventos aleatorios": [
+    "🌋 Lluvia de lava",
+    "🌑 Apagón total",
+    "☄️ Caída de meteoritos",
+    "🧟 Invasión de zombies",
+    "⚡ Tormenta eléctrica",
+    "🧊 Congelación del mapa",
+    "🌀 Gravedad loca",
+    "🎲 Evento sorpresa aleatorio",
+    "🧠 Minijuego de preguntas",
+    "🎯 Piso correcto o pierdes"
+  ],
+
+  "🗺️ Mapas": [
+    "🏰 Castillo",
+    "🌋 Isla volcánica",
+    "🧗 Zona parkour",
+    "🧩 Laberinto",
+    "🧪 Laboratorio",
+    "⚔️ Isla PvP",
+    "⚙️ Isla mecánica",
+    "🌌 Isla espacial",
+    "🏝️ Isla de recursos",
+    "🏁 Mapa de carreras"
+  ],
+
+  "🧪 Tipos de suelo": [
+    "🔥 Lava",
+    "🧊 Hielo",
+    "⚡ Electricidad",
+    "☣️ Ácido",
+    "🧀 Queso",
+    "❄️ Nieve",
+    "🟢 Slime",
+    "🌈 Piso sorpresa",
+    "⬆️ Piso que sube",
+    "⬇️ Piso que baja"
+  ],
+
+  "💰 Monetización": [
+    "💎 Gamepasses",
+    "🎁 Donaciones",
+    "❤️ Revivir con Robux",
+    "🪙 Comprar monedas",
+    "🐾 Mascotas épicas",
+    "⚡ Poderes premium",
+    "🛍️ Tienda especial",
+    "🎟️ Acceso VIP",
+    "⏱️ Saltar espera con Robux"
+  ],
+
+  "🎮 Sistemas del juego": [
+    "🔄 Sistema de rondas",
+    "🏆 Sistema competitivo",
+    "📊 Sistema de puntos",
+    "💀 Pantalla de muerte",
+    "🔁 Botón de revivir",
+    "🎯 Selector de eventos",
+    "⏳ Recompensa por tiempo jugado",
+    "📈 Progreso del jugador",
+    "🎖️ Logros/desafíos"
+  ],
+
+  "🖥️ Interfaz (GUI)": [
+    "🎨 Indicador de color correcto",
+    "💀 Pantalla de muerte animada",
+    "🛒 Menú de tienda",
+    "📊 Contador de jugadores vivos",
+    "⏱️ Temporizador visible",
+    "📢 Alertas de eventos",
+    "🎯 Indicador de objetivo",
+    "🎮 HUD limpio y moderno"
+  ],
+
+  "🎭 Animaciones y efectos": [
+    "😂 Emote divertido",
+    "💃 Animaciones únicas",
+    "✨ Efectos visuales raros",
+    "🎆 Partículas especiales",
+    "🔥 Animación al ganar",
+    "💀 Animación al morir",
+    "⚡ Efectos al usar poderes"
+  ],
+
+  "🔊 Sonido": [
+    "🎵 Música dinámica",
+    "😂 Audio troll (tipo meme)",
+    "⚡ Sonido de eventos",
+    "💀 Sonido de muerte",
+    "🏆 Sonido de victoria",
+    "🔊 Efectos al usar poderes"
+  ],
+
+  "⚔️ Eventos especiales": [
+    "🧟 Modo zombies",
+    "⚡ Evento caos total",
+    "🎯 Desafío extremo",
+    "🏁 Carrera contrarreloj",
+    "🎲 Evento aleatorio raro"
+  ],
+
+  "🏗️ Decoración": [
+    "🌿 Árboles y naturaleza",
+    "🏰 Detalles en estructuras",
+    "💡 Luces dinámicas",
+    "🌌 Efectos de ambiente",
+    "🗿 Estatua del creador",
+    "🎨 Mejorar estética general"
+  ],
+
+  "🧠 Ideas de comunidad mejoradas": [
+    "📢 GUI que indique el color correcto",
+    "🧗 Parkour para cambiar de zona",
+    "💀 GUI de muerte con animación",
+    "❤️ Revivir con Robux",
+    "🎟️ Evento gratis tras jugar 10 minutos",
+    "💰 Evento premium por Robux",
+    "⚡ Gravedad variable en pisos",
+    "🔄 Sistema de rondas dinámicas",
+    "🧟 Zombies en momentos aleatorios"
+  ]
+}
